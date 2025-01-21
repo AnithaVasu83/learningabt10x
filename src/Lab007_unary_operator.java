@@ -22,6 +22,9 @@ public class Lab007_unary_operator {
         int c=-5;
         System.out.println("c=\t" + c);
         System.out.println("bitwise c :\t" + ~c);
+        char c1=' ';
+        System.out.println("space"+c1+"not visible");
+
 
 
 
