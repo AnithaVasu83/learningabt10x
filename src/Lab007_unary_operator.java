@@ -4,6 +4,13 @@ public class Lab007_unary_operator {
        int n1=3;
         System.out.println("unary plus\t" +n1);
         System.out.println("unary minus\t" + -n1);
+        System.out.println("n1++ : "+n1++);
+        System.out.println("++n1 : "+(++n1));
+        int x=n1--;
+        int y=--n1;
+        System.out.println("n1-- : "+x);
+        System.out.println("--n1 : "+y);
+
         // incase of numeric + will perform addition
         long a=956786893l;
         int b=10;
@@ -24,6 +31,7 @@ public class Lab007_unary_operator {
         System.out.println("bitwise c :\t" + ~c);
         char c1=' ';
         System.out.println("space"+c1+"not visible");
+
 
 
 
