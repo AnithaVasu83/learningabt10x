@@ -2,9 +2,9 @@ package ex6_switch;
 
 public class Lab031_switch_ch {
     public static void main(String[] args) {
-        char ch = 'A';
+        char ch = args[0].charAt(0);
         switch (ch) {
-            case 'A':
+            case 'A','B'://modern switch
                 System.out.println(ch);
                 break;
             default:
@@ -13,10 +13,12 @@ public class Lab031_switch_ch {
         }
         switch (ch) {
             case 65:
-                System.out.println(ch);
+            case 66:
+            case 67:
+                System.out.println(ch);//traditional switch
                 break;
             default:
-                System.out.println("not A");
+                System.out.println("not A,B,C");
                 break;
         }
     }
