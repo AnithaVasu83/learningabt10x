@@ -1,3 +1,5 @@
+package ex3_CLI;
+
 public class Lab014_command_line_arguments {
     public static void main(String[] args) {
         String string_num1=args[0];

@@ -1,3 +1,5 @@
+package ex1_java_basics;
+
 public class Lab001_main_comments {
     public static void main (String[] args) {
         //comments are used for understanding the program better

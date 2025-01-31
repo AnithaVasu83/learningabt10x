@@ -1,3 +1,5 @@
+package ex1_java_basics;
+
 public class Lab005_literals {
 
     public static void main(String[] args)
@@ -16,18 +18,18 @@ public class Lab005_literals {
         int Octdec=0567;
         int bindec=0b010;
         char backslash='\\';
-        System.out.println("Hello"+new_line+"java");
-        System.out.printf("Hello %b java\n",true);
-        System.out.printf("Hello %s java\t",true);
-        System.out.println("Hello \n java");
-        System.out.println("Hello\b java");
-        System.out.println("Hello " +carriage_return + "java");
-        System.out.println("Hello"+new1+"java");
-        System.out.println("Hello"+back1+"java");
+        System.out.println("ex1_java_basics.Hello"+new_line+"java");
+        System.out.printf("ex1_java_basics.Hello %b java\n",true);
+        System.out.printf("ex1_java_basics.Hello %s java\t",true);
+        System.out.println("ex1_java_basics.Hello \n java");
+        System.out.println("ex1_java_basics.Hello\b java");
+        System.out.println("ex1_java_basics.Hello " +carriage_return + "java");
+        System.out.println("ex1_java_basics.Hello"+new1+"java");
+        System.out.println("ex1_java_basics.Hello"+back1+"java");
         System.out.println("decimal value of hexadecimal:"+hexdecimal1);
         System.out.println("decimal value of octal:"+Octdec);
         System.out.println("decimal value of binary:"+bindec);
-        System.out.println("Hello"+backslash+"java");
+        System.out.println("ex1_java_basics.Hello"+backslash+"java");
 
         int a1=10,b1=20;
         int x,y;

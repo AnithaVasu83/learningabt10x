@@ -9,7 +9,7 @@ public class Lab030_string {
         String s1=sc.nextLine();
         switch (s1)
         {
-            case "Hello":
+            case "ex1_java_basics.Hello":
                 System.out.println(s1);
                 break;
             case "Hi":

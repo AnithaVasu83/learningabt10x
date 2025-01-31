@@ -1,3 +1,5 @@
+package ex2_operators;
+
 public class Lab006_arithmetic_operator {
     public static void main(String[] args)
     {

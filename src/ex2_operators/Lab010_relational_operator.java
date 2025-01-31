@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+package ex2_operators;
 
 public class Lab010_relational_operator {
     public static void main(String[] args)

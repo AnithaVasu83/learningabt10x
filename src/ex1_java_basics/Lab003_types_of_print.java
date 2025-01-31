@@ -1,4 +1,4 @@
-import java.io.PrintStream;
+package ex1_java_basics;
 
 public class Lab003_types_of_print {
     public static void main (String[] args) {

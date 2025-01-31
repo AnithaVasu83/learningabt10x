@@ -1,3 +1,5 @@
+package ex2_operators;
+
 public class Lab007_unary_operator {
     public static void main(String[] args)
     {

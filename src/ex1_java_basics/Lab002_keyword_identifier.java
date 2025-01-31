@@ -1,3 +1,5 @@
+package ex1_java_basics;
+
 public class Lab002_keyword_identifier {
     public static void main (String[] args) {
         //keywords have predefined values

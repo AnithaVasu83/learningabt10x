@@ -1,3 +1,5 @@
+package ex3_CLI;
+
 public class Lab016_multiplication_table {
     public static void main(String[] args) {
         int a=9;

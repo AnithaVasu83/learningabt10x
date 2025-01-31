@@ -1,3 +1,5 @@
+package ex2_operators;
+
 public class Lab008_bitwise_operator {
     public static void main(String[] args)
     {

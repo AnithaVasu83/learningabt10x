@@ -1,3 +1,5 @@
+package ex2_operators;
+
 public class Lab012_ternary2 {
     public static void main(String[] args)
     {

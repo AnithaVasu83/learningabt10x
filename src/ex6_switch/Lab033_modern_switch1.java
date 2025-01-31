@@ -21,7 +21,7 @@ public class Lab033_modern_switch1 {
         String s2=switch(x) {
             case 1 -> "hello";
             case 3 -> "world";
-            default -> "Hello World";
+            default -> "ex1_java_basics.Hello World";
         };
         System.out.println(s2);
         int a=5;

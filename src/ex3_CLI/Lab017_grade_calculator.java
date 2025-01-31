@@ -1,3 +1,5 @@
+package ex3_CLI;
+
 public class Lab017_grade_calculator {
     public static void main(String[] args) {
         String string_num=args[0];
