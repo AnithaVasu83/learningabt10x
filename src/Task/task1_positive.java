@@ -15,13 +15,6 @@ public class task1_positive {
             System.out.println("negative number");
         else System.out.println("neutral number");
 }
-else if(sc.hasNextFloat()) {
-            float num = sc.nextFloat();
-            if (num > 0)
-                System.out.println("positive number");
-            else if(num <0)
-                System.out.println("negative number");
-            else System.out.println("neutral number");
-        }
+else System.out.println("Enter the valid input");
     }
 }
