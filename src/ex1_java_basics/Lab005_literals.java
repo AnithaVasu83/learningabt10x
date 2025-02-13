@@ -18,8 +18,8 @@ public class Lab005_literals {
         int Octdec=0567;
         int bindec=0b010;
         char backslash='\\';
-        System.out.println("ex1_java_basics.Hello"+new_line+"java");
-        System.out.printf("ex1_java_basics.Hello %b java\n",true);
+        System.out.println("Hello"+new_line+"java");
+        System.out.printf("Hello %b java\n",true);
         System.out.printf("ex1_java_basics.Hello %s java\t",true);
         System.out.println("ex1_java_basics.Hello \n java");
         System.out.println("ex1_java_basics.Hello\b java");
