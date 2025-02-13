@@ -1,4 +1,4 @@
-package task_29;
+package task_29_jan;
 
 import java.util.Scanner;
 

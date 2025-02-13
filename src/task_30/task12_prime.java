@@ -25,11 +25,11 @@ public class task12_prime {
             return false;
         if(num == 2) return true;
         if(num %2 ==0) return false;
-        for(int i=3;i<=Math.sqrt(num);i +=2)
-        {
-            if(num %i==0)
-                return false;
 
+        for(int i=3;i<=Math.sqrt(num);i +=2)
+            {
+                if(num %i==0)
+                    return false;
         }return true;//the reason it is not placed inside the for is because loop runs only one iteration and returns true even if the number is not prime
         //25 it checks 25%3 !=0 and returns true(prime) without checking 25%5 ==0 (not prime)
     }

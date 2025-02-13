@@ -1,4 +1,4 @@
-package task_29;
+package task_29_jan;
 
 public class task2_even_if {
     public static void main(String[] args)
