@@ -13,7 +13,8 @@ public class task11_is_alphabet {
         if(str.length()==1 && Character.isLetter(str.charAt(0)))
             System.out.println("Given character is a alphabet");
         else {
-            //sc.nextLine();
+            //sc.nextLine(); no need for this here instead use sc.close()
+            //because we take input in nextLine()
             System.out.println("Enter single alphabet only");
         }
           sc.close();
